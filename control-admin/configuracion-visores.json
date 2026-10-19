@@ -1,0 +1,103 @@
+{
+  "version": "1.0",
+  "updated": "2026-10-19",
+  "notice": "Registro público de referencias. No contiene secretos ni aplica permisos.",
+  "template": {
+    "campos": [
+      "visor",
+      "repositorio",
+      "archivo_control",
+      "niveles_acceso",
+      "funciones",
+      "politica_descargas",
+      "estadisticas",
+      "autenticacion",
+      "responsable",
+      "fecha_revision"
+    ],
+    "niveles_sugeridos": [
+      "publico",
+      "consulta",
+      "editor",
+      "administrador"
+    ],
+    "metricas_sugeridas": [
+      "visitas_anonimas",
+      "consultas",
+      "descargas",
+      "ultima_actividad"
+    ]
+  },
+  "visores": [
+    {
+      "visor": "GeoIndicadores",
+      "repo": "phdgeografo/GEOINDICADORES",
+      "url": "https://phdgeografo.github.io/GEOINDICADORES/",
+      "archivo_control": null,
+      "referencia": "Pendiente de creación o vinculación en repositorio del visor",
+      "niveles_acceso": "pendiente",
+      "funciones": "pendiente",
+      "politica_descargas": "pendiente",
+      "estadisticas": "pendiente",
+      "autenticacion": "pendiente",
+      "responsable": "pendiente",
+      "fecha_revision": null
+    },
+    {
+      "visor": "Visor Territorial",
+      "repo": "phdgeografo/VISOR-REPOSITORIO-DIGITAL",
+      "url": "https://phdgeografo.github.io/VISOR-REPOSITORIO-DIGITAL/",
+      "archivo_control": null,
+      "referencia": "Esquema de permisos, acceso y estadísticas existente; localizar ruta exacta antes de vincular.",
+      "niveles_acceso": "pendiente",
+      "funciones": "pendiente",
+      "politica_descargas": "pendiente",
+      "estadisticas": "pendiente",
+      "autenticacion": "pendiente",
+      "responsable": "pendiente",
+      "fecha_revision": null
+    },
+    {
+      "visor": "STGO 3D",
+      "repo": "phdgeografo/MAQUETA-3D-STGO",
+      "url": "https://phdgeografo.github.io/MAQUETA-3D-STGO/",
+      "archivo_control": null,
+      "referencia": "Pendiente de creación o vinculación en repositorio del visor",
+      "niveles_acceso": "pendiente",
+      "funciones": "pendiente",
+      "politica_descargas": "pendiente",
+      "estadisticas": "pendiente",
+      "autenticacion": "pendiente",
+      "responsable": "pendiente",
+      "fecha_revision": null
+    },
+    {
+      "visor": "Biblioteca Digital",
+      "repo": "phdgeografo/BIBLIOTECA-DIGITAL",
+      "url": "https://phdgeografo.github.io/BIBLIOTECA-DIGITAL/",
+      "archivo_control": null,
+      "referencia": "Pendiente de creación o vinculación en repositorio del visor",
+      "niveles_acceso": "pendiente",
+      "funciones": "pendiente",
+      "politica_descargas": "pendiente",
+      "estadisticas": "pendiente",
+      "autenticacion": "pendiente",
+      "responsable": "pendiente",
+      "fecha_revision": null
+    },
+    {
+      "visor": "Visor de Suelos",
+      "repo": "phdgeografo/VISOR-SUELOS",
+      "url": "https://phdgeografo.github.io/VISOR-SUELOS/",
+      "archivo_control": null,
+      "referencia": "Pendiente de creación o vinculación en repositorio del visor",
+      "niveles_acceso": "pendiente",
+      "funciones": "pendiente",
+      "politica_descargas": "pendiente",
+      "estadisticas": "pendiente",
+      "autenticacion": "pendiente",
+      "responsable": "pendiente",
+      "fecha_revision": null
+    }
+  ]
+}
